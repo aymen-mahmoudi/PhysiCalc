@@ -1,0 +1,14 @@
+# 1. Install PyQt6
+PyQt6==6.7.1
+
+# 2. Install PyQt6-Qt6
+PyQt6-Qt6==6.7.2
+
+# 3. Install numpy
+numpy==2.1.3
+
+# 4. Install matplotlib
+matplotlib==3.9.2
+
+# 5. Install pyinstaller
+pyinstaller==6.13.0
